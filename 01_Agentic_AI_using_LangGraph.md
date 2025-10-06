@@ -169,10 +169,4 @@
 
 ---
 
-### 🎓 Channel: Nitish's YouTube Channel
-### 📝 Topic: Agentic AI using LangGraph
-### 🎬 Series: Complete Playlist Guide
-
----
-
 **🌟 Happy Learning! See you in the next video! 🚀**
