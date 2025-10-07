@@ -151,6 +151,9 @@
 
 ---
 
+<img width="1070" height="794" alt="image" src="https://github.com/user-attachments/assets/48cef990-fdfa-432b-b239-f695061e1d35" />
+
+
 ## Stage 3️⃣: Tool-Augmented Chatbot
 
 ### 🛠️ Tools Integrated
@@ -203,6 +206,8 @@
 - Suggests solutions
 - Adjusts strategy when needed
 - Chooses alternate paths
+
+<img width="1092" height="817" alt="image" src="https://github.com/user-attachments/assets/c6ea681d-7cfa-4c3a-b5dc-2253234fa2af" />
 
 ### 🎬 Complete Workflow Example
 
