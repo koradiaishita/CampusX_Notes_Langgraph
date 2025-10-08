@@ -22,7 +22,10 @@ This is the second video in the Agentic AI using LangGraph playlist, focusing on
 - **Generative AI**: You ask "What's the best way to reach Goa on the 15th?" → It answers only that question
 - **Agentic AI**: You say "I want to go to Goa from X date to Y date" → It plans flights, hotels, itinerary automatically
 
+<img width="1276" height="531" alt="image" src="https://github.com/user-attachments/assets/183a7f11-3056-4c8d-8220-1b90e14db50d" />
+
 ---
+
 
 ## 💼 Real-World Example: AI HR Recruiter
 
@@ -75,6 +78,8 @@ An HR recruiter needs to hire a Backend Engineer using an Agentic AI chatbot.
    - Monitors acceptance
    - Initiates onboarding (IT access, laptop, welcome email)
 
+<img width="1047" height="646" alt="image" src="https://github.com/user-attachments/assets/116d0ff2-9cc5-458a-bef6-093e7f088dfc" />
+
 ---
 
 ## ⭐ Six Key Characteristics of Agentic AI
@@ -93,6 +98,9 @@ An HR recruiter needs to hire a Backend Engineer using an Agentic AI chatbot.
 - **Human-in-the-Loop** 👤: Insert checkpoints requiring human approval
 - **Override Controls** ⏸️: Allow users to stop, pause, or change behavior
 - **Guard Rails & Policies** 🚧: Define hard rules and ethical boundaries
+
+<img width="1034" height="400" alt="image" src="https://github.com/user-attachments/assets/0c6e44de-fba8-45c5-919e-35a2de7b5632" />
+
 
 **⚠️ Risks of Uncontrolled Autonomy**:
 - Rolling out job offers with incorrect salary/terms
@@ -248,10 +256,16 @@ Selection methods:
 6. **Policies & Guard Rails** 🚧
    - "Don't send offer letter without approval"
    - "Never use paid ad platforms without permission"
+  
+   <img width="1032" height="413" alt="image" src="https://github.com/user-attachments/assets/a89beb00-50f7-4dba-8099-94407906d47d" />
+
 
 **💾 Memory Types**:
 - **Short-term Memory**: Current session info (tool responses, immediate decisions)
 - **Long-term Memory**: Goals, past interactions, user preferences, cross-session decisions
+
+<img width="1039" height="360" alt="image" src="https://github.com/user-attachments/assets/c5cccafc-5647-4b85-a98a-bde96c12fecd" />
+
 
 ---
 
@@ -329,7 +343,11 @@ Selection methods:
 - **Escalations** ⚠️: Handle edge cases
   - Example: Non-IIT candidate with excellent resume → Alert human
 
+<img width="1039" height="498" alt="image" src="https://github.com/user-attachments/assets/34ade45a-4171-457d-b5d4-08f24ada8aac" />
+
+
 ---
+
 
 ## 📊 Summary Table
 
