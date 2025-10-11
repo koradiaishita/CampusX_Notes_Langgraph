@@ -89,41 +89,6 @@
 <img width="1160" height="878" alt="image" src="https://github.com/user-attachments/assets/3260f38d-3044-49d5-a68d-c593e34cdb6c" />
 <img width="1166" height="577" alt="image" src="https://github.com/user-attachments/assets/1c30c9de-8c9a-4809-9032-c7025999b9e8" />
 
-
-```
-1. 📨 Receive Hiring Request
-   ↓
-2. 📄 Create Job Description (JD)
-   ↓
-3. ✅ JD Approval (Human-in-the-loop)
-   ↓ (if not approved, loop back to step 2)
-4. 🌐 Post JD on Job Platforms (LinkedIn, Naukri)
-   ↓
-5. ⏳ Wait 7 Days
-   ↓
-6. 📊 Monitor Applications
-   ↓
-7. ❓ Enough Applications? (Threshold: 20)
-   ├─ NO → Modify JD → Wait 48 hours → Check again (LOOP)
-   └─ YES → Continue
-   ↓
-8. 📋 Shortlist Candidates (Resume parsing + scoring)
-   ↓
-9. 📅 Schedule Interviews
-   ↓
-10. 🎤 Conduct Interviews
-    ↓
-11. ✅/❌ Selection Decision
-    ├─ NOT SELECTED → Send Regret Email
-    └─ SELECTED → Send Offer Letter
-    ↓
-12. 📬 Track Offer Acceptance
-    ├─ REJECTED → Renegotiate → Send New Offer
-    └─ ACCEPTED → Start Onboarding
-    ↓
-13. 🎉 Complete Onboarding
-```
-
 ---
 
 ## ⚠️ 8 Major Challenges with LangChain
