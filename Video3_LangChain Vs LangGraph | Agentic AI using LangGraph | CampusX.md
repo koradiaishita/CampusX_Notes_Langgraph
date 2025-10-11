@@ -84,6 +84,12 @@
 
 ### 🗺️ Automated Hiring Workflow Steps
 
+<img width="1164" height="837" alt="image" src="https://github.com/user-attachments/assets/aa863e1c-ba04-45fc-935d-09450d6c39cd" />
+<img width="1158" height="872" alt="image" src="https://github.com/user-attachments/assets/a88eaabe-07f9-4326-a3fa-30177030b986" />
+<img width="1160" height="878" alt="image" src="https://github.com/user-attachments/assets/3260f38d-3044-49d5-a68d-c593e34cdb6c" />
+<img width="1166" height="577" alt="image" src="https://github.com/user-attachments/assets/1c30c9de-8c9a-4809-9032-c7025999b9e8" />
+
+
 ```
 1. 📨 Receive Hiring Request
    ↓
