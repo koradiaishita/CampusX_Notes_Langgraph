@@ -359,6 +359,9 @@ Tool for monitoring LLM applications
 
 ---
 
+<img width="892" height="297" alt="image" src="https://github.com/user-attachments/assets/01e820ae-88c0-4e1f-b877-5c4fbbc7fbf4" />
+
+
 ## 🎯 When to Use What?
 
 ### ✅ Use LangChain When:
@@ -367,6 +370,9 @@ Tool for monitoring LLM applications
 - 💬 Basic chatbots
 - 📊 Text summarizers
 - 📚 Simple RAG systems
+
+  <img width="969" height="364" alt="image" src="https://github.com/user-attachments/assets/81c1c088-fc66-4545-8582-493b8ac647dc" />
+
 
 ### ✅ Use LangGraph When:
 - 🔀 Complex, non-linear workflows
@@ -396,6 +402,9 @@ Tool for monitoring LLM applications
   - Document Loaders
   - Text Splitters
   - Tools
+
+<img width="979" height="408" alt="image" src="https://github.com/user-attachments/assets/6b013d6e-5196-4850-a656-8390849f0c2e" />
+
 
 **📌 Relationship:**
 ```
